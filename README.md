@@ -19,13 +19,6 @@ I am a **Computer Science student** with a specialization in **Artificial Intell
 
 > **My Belief:** *Growth comes from curiosity and discipline.*
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-FF6600?style=for-the-badge&logo=code&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/ROLE-OPEN%20SOURCE%20CONTRIBUTOR-FF6600?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/ROLE-STUDENT-FF6600?style=for-the-badge&logo=academic&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/ROLE-AUTOMATION%20BUILDER-FF6600?style=for-the-badge&logo=robot&logoColor=white&labelColor=black" />
-</div>
-
 ---
 
 <!-- Connect -->
@@ -73,6 +66,7 @@ I am a **Computer Science student** with a specialization in **Artificial Intell
 <div align="center">
 
 ### **Frontend**
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -93,19 +87,6 @@ I am a **Computer Science student** with a specialization in **Artificial Intell
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
-</div>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ironankit525&show_icons=true&theme=dark&title_color=FF6600&icon_color=FF6600&text_color=FFF&bg_color=0D1117&hide_border=true" alt="Ankit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ironankit525&theme=dark&ring=FF6600&fire=FF6600&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FF6600&sideLabels=FFF&background=0D1117&hide_border=true" alt="Ankit's Current Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ironankit525&layout=compact&theme=dark&title_color=FF6600&text_color=FFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
