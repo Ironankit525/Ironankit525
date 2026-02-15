@@ -1,6 +1,6 @@
 <!-- Banner Placeholder -->
 <div align="center">
-  <img src="https://via.placeholder.com/1300x400/000000/FF6600?text=ANKIT+KUMAR+%7C+FULL+STACK+DEVELOPER" alt="Banner" width="100%" />
+  <img src="assets/banner.png" alt="Ankit Kumar - Full Stack Developer" width="100%" />
 </div>
 
 <!-- Header -->
