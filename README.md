@@ -136,7 +136,7 @@ const ankit = {
 
 
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+
 
 
 <p align='center'>
